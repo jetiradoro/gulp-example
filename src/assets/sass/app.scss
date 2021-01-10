@@ -1,0 +1,10 @@
+@import 'variables';
+
+body{
+	background: $bgColor;
+}
+
+.content{
+	max-width:  940px;
+	width: 100%;
+}
