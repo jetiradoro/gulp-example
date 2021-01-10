@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss","_variables.scss"],"names":[],"mappings":"AAEA,KACC,kBCH2B,CDI3B,SAGA,eAAiB,CACjB,UAAW","file":"app.css","sourcesContent":["@import 'variables';\n\nbody{\n\tbackground: $bgColor;\n}\n\n.content{\n\tmax-width:  940px;\n\twidth: 100%;\n}","$bgColor: rgb(255, 205, 244);\n\n"]}

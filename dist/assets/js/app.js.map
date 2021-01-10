@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js","admin.js"],"names":["console","log"],"mappings":"AAAAA,QAAQC,IAAI,mBAKZD,QAAQC,IAAI;ACLZD,QAAQC,IAAK","file":"app.js","sourcesContent":["console.log('this is main.js');\n\n\n\n\nconsole.log('this is main.js line 2');","console.log ('this is admin test');"]}
